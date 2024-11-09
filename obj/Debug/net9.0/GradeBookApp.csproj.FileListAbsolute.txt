@@ -1,0 +1,15 @@
+C:\Users\thabi\CsharpMine\GradeBookApp\bin\Debug\net9.0\GradeBookApp.exe
+C:\Users\thabi\CsharpMine\GradeBookApp\bin\Debug\net9.0\GradeBookApp.deps.json
+C:\Users\thabi\CsharpMine\GradeBookApp\bin\Debug\net9.0\GradeBookApp.runtimeconfig.json
+C:\Users\thabi\CsharpMine\GradeBookApp\bin\Debug\net9.0\GradeBookApp.dll
+C:\Users\thabi\CsharpMine\GradeBookApp\bin\Debug\net9.0\GradeBookApp.pdb
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.AssemblyInfoInputs.cache
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.AssemblyInfo.cs
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.csproj.CoreCompileInputs.cache
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.sourcelink.json
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.dll
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\refint\GradeBookApp.dll
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.pdb
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\GradeBookApp.genruntimeconfig.cache
+C:\Users\thabi\CsharpMine\GradeBookApp\obj\Debug\net9.0\ref\GradeBookApp.dll
